@@ -35,7 +35,7 @@ Custom Selenium automation framework featuring:
 - CI-ready configuration
 - Clear separation of test logic
 
-🔗 [View Repository](PUT_YOUR_LINK_HERE)
+🔗 [View Repository](https://github.com/MauDevFernandes/qa-web-automation-framework)
 
 ---
 
